@@ -1,3 +1,3 @@
 name:wuw
 num=20
-num=30
+num=300
